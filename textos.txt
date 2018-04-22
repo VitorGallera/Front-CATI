@@ -1,0 +1,39 @@
+
+TEXTOS DA SESSÃO QUEM SOMOS:
+
+Fundada em 2001, a EMPSI Jr. é a empresa Júnior de Psicologia da Ufscar. Sempre investindo na capacitação de seus membros, atualmente a EMPSI Jr. tem a missão de ampliar os conhecimentos teóricos e práticos dos seus membros.
+
+
+
+TEXTOS DA SESSÃO SERVIÇOS:
+
+Diagnóstico Organizacional
+
+Some quick example text to build on the card title and make up the bulk of the card's content.
+
+Processos Seletivos
+
+Some quick example text to build on the card title and make up the bulk of the card's content.
+
+Treinamentos
+
+Some quick example text to build on the card title and make up the bulk of the card's content.
+
+Descrição e Análise de Cargos
+
+Some quick example text to build on the card title and make up the bulk of the card's content.
+
+TEXTOS DA SESSÃO INFORMAÇÕES:
+
+<b>Endereço:</b>
+Rodovia Washington Luís, km 235 - SP-310<br>São Carlos - SP.<br>CEP: 13565-905
+
+<b>Telefone:</b>
+(16) 1234-5678
+
+<b>Email:</b>
+empsijr@gmail.com
+
+TEXTO FOOTER:
+
+Desenvolvido por CATI Jr. - www.catijr.com.br
