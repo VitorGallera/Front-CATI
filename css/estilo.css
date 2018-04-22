@@ -1,0 +1,246 @@
+
+
+
+html,body{
+	height: 100%;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+/*QUEM SOMOS*/
+
+.quem-somos{
+	background-color: #f7f7f7;
+	color: #044676;
+	padding-top: 70px;
+}
+.quem-somos-texto{
+	color: #353435;
+}
+
+.btn-quemsomos{
+	background-color: #044676;
+	color: #f7f7f7;
+}
+.jumbotron{
+	margin-bottom: 0;
+}
+
+.img-quemsomos{
+	width: 50%;
+}
+
+.col-img-quemsomos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*Nossos Servicos*/
+.nossos-servicos{
+	background-color: #044676;
+	padding: 70px 50px 50px 50px;
+}
+
+.titulo-servicos{
+	margin: auto;
+	color: white;
+	margin-bottom: 20px;
+	font-size: 2rem;
+}
+
+.card-img-top{
+    border-radius: 50%;
+    width: 60%;
+    margin: auto;
+}
+
+.titulo-servico{
+	color: #f7f7f7;
+	text-align: center;
+	font-size: 1.5rem;
+}
+
+.servicos-texto{
+	text-align: center;
+	color: white;
+}
+
+
+.card-servicos{
+	background-color: transparent;
+	border: none;
+	margin-top: 20px;
+}
+
+.servico-btn{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+.servico-link{
+	color: white;
+}
+
+/* APOIADORES*/
+
+.apoiadores{
+	background-color: #fff;
+	margin-bottom: 10px;
+	padding: 50px;
+}
+
+.titulo-apoiadores{
+	color: #044676;
+	margin: auto;
+	margin-bottom: 30px;
+}
+
+.imgs-apoiadores{
+	width: 50%;
+	margin:10px;
+}
+
+.apoiador-img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/*CONTATO*/
+
+.contato{
+	background-color: #f7f7f7;
+    padding: 20px 0px 30px 0px;
+}
+
+.contato-form{
+	width: 100%;
+}
+
+.titulo-contato{
+	color:  #044676;
+}
+
+.contato-pad{
+	padding-top: 20px;
+	/*padding-left: 100px;*/
+}
+.info-blocks{
+	margin-top: 40px;
+}
+
+/*FOOTER*/
+
+.footer{
+	background-color: #044676;
+}
+
+.link-footer{
+	color: white;
+}
+
+/*Header*/
+
+header{
+	background-image: url(../headermobile.png);
+	background-size: cover;
+	background-position: top center;
+	height: 100%;
+}
+
+.mensagem-header{
+	background-color: transparent;
+    border: none;
+	top: 50%;
+	position: absolute;
+}
+.card-mensagem {
+    	font-size: 3rem;
+	}
+
+.titulo-mensagem{
+	color: white
+}
+
+.btn-mensagem{
+	background-color: transparent;
+	color: white;
+	box-shadow: 0 0 0 0.2rem white;
+}
+
+.navbar-toggler-icon{
+	color: white;
+}
+
+.item-menu{
+	color: white!important;
+}
+
+.item-menu-azul{
+	color: #044676!important;
+}
+
+.navbar-bg{
+	background-color: transparent;
+}
+.navbar-white{
+	background-color: white;
+}
+.justify-navbar{
+	justify-content: flex-end;
+}
+
+
+
+/*// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap
+*/
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+header{
+		background-image: url(../header.png);
+		background-size: cover;
+		background-position: top center;
+		height: 100%;
+	}
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+	.mensagem-header {
+	    background-color: transparent;
+	    border: none;
+    	top: 60%;
+    	left: 5%;
+	    position: absolute;
+	}
+
+	
+}
+
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+
+}
+
+/*// Extra large devices (large desktops, 1200px and up)
+*/@media (min-width: 1200px) {
+
+}
+
+/*PAGINA PS*/
+
+/*navbar*/
+.navbar-white{
+	background-color: white;
+}
+
+/*Sessão PS*/
+
+.ps{
+	background-color: #f7f7f7;
+	height: calc(100% - 100px);
+}
